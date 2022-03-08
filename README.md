@@ -1,6 +1,6 @@
 # INFO
 
-git remote add origin https://github.com/marcinrataj/add-to-basket-with-validate.git
+https://marcinrataj.github.io/add-to-basket-with-validate/
 
 Very basic display of adding something to the cart
 #
